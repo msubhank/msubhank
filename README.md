@@ -4,7 +4,7 @@
 - 🔭 Currently working on cutting-edge technologies.
 - 👯 I’m looking to collaborate on frontend development.
 - 💬 Ask me about anything you need help with.
-- 📫 How to reach me: [LinkedIn](https://pk.linkedin.com/in/msubhank)
+- 📫 How to reach me: [LinkedIn](https://pk.linkedin.com/in/msubhank/)
 ## Tech Stack
 <table width="100">
 <tr></tr>
