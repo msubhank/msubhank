@@ -1,72 +1,74 @@
-## Software Engineer
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msubhank" alt="msubhank" /> </p>
+<div align="center">
 
-- 🔭 Currently focused on Full-Stack Web Development and scalable architectures.
-- 👯 I’m looking to collaborate on Open Source projects, React/Next.js applications, and Full-Stack development.
-- 💬 Ask me about the MERN stack, Next.js, Supabase, and relational databases.
-- 📫 How to reach me: [LinkedIn](https://pk.linkedin.com/in/msubhank/)
+  # Muhammad Subhan Kashif
+  ### Full-Stack Software Engineer
 
-## Tech Stack
-<table width="100%">
-<tr>
-    <!-- Row 1: Languages & Core Development -->
-    <td align='center' width="12.5%">
-        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" height="50"><br>JavaScript
-    </td>
-    <td align='center' width="12.5%">
-        <img src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" height="50"><br>C++
-    </td>
-    <td align='center' width="12.5%">
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" height="50"><br>HTML5
-    </td>
-    <td align='center' width="12.5%">
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" height="50"><br>CSS3
-    </td>
-    <td align='center' width="12.5%">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="50"><br>React.js
-    </td>
-    <td align='center' width="12.5%">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" height="50"><br>Tailwind CSS
-    </td>
-    <td align='center' width="12.5%">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="50"><br>Node.js
-    </td>
-    <td align='center' width="12.5%">
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" height="50"><br>Express.js
-    </td>
-</tr>
-<tr>
-    <!-- Row 2: Databases, DevOps, Tools & Hosting -->
-    <td align='center' width="12.5%">
-        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" height="50"><br>PostgreSQL
-    </td>
-    <td align='center' width="12.5%">
-        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg" height="50"><br>Supabase
-    </td>
-    <td align='center' width="12.5%">
-        <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" height="50"><br>Vercel
-    </td>
-    <td align='center' width="12.5%">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="50"><br>Git
-    </td>
-    <td align='center' width="12.5%">
-        <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" height="50"><br>GitHub
-    </td>
-    <td align='center' width="12.5%">
-        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height="40"><br>VS Code
-    </td>
-    <td align='center' width="12.5%">
-        <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg" height="50"><br>VirtualBox
-    </td>
-    <td align='center' width="12.5%">
-        <!-- Empty cell to balance the 8x2 grid layout nicely -->
-    </td>
-</tr>
-</table>
+  <p>
+    <a href="https://linkedin.com/in/msubhank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:msubhank123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://komarev.com/ghpvc/?username=msubhank&style=for-the-badge&color=007ec6" alt="Profile Views" />
+  </p>
 
-## Language Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msubhank&langs_count=10&layout=compact&hide=C)
+  <p>
+    Software Engineering graduate specializing in responsive, production-ready web applications, scalable backend APIs, and developer platforms.
+  </p>
 
-## GitHub Stats
-![Subhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=msubhank&hide=stars&show=reviews,prs_merged&show_icons=true&hide_rank=true)
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=msubhank" alt="msubhank" /></p>
+</div>
+
+---
+
+### 💼 Experience
+
+#### **Frontend Development Intern** | [Bytes Fort](https://bytesfort.com)
+*Developed responsive, performant web applications following UI/UX design standards and cross-browser compatibility.*
+* Built and maintained the official company website with interactive UI components and modular layouts.
+* Collaborated closely with design teams to translate Figma/wireframe mockups into clean, functional front-end interfaces.
+* Optimized web pages for cross-device compatibility, speed, and accessible code structure.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<div align="center">
+
+  <!-- Core Languages -->
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,python,html,css" alt="Languages" />
+  <br/><br/>
+
+  <!-- Frameworks & Runtime -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" alt="Frameworks & Backend" />
+  <br/><br/>
+
+  <!-- Databases, Cloud & DevOps Tools -->
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,vercel,git,github,vscode,linux" alt="Databases, Hosting & Tools" />
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+* **[Evalify](https://github.com/msubhank)** – Secure coding evaluation platform featuring role-based auth (Supabase/JWT), an in-browser Monaco Editor integrated with the Glot.io execution API, and relational progress tracking via PostgreSQL.
+* **[Resume Boost](https://github.com/msubhank)** – AI-driven career acceleration tool utilizing the Google Gemini API to analyze ATS keyword match percentages and automate tailored cover letter generation.
+* **[The Salah Time](https://github.com/msubhank)** – Real-time global Islamic prayer schedules web app engineered with Next.js, external REST APIs, and geolocation services.
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+
+  <!-- GitHub Streak Card -->
+  <img src="https://streak-stats.demolab.com/?user=msubhank&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%" />
+
+  <br/><br/>
+
+  <!-- Stats & Language Cards -->
+  <a href="https://github.com/msubhank">
+    <img src="https://github-stats-extended.vercel.app/api?username=msubhank&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&show=reviews,prs_merged&hide=stars,rank" alt="Profile Stats" width="49%" />
+  </a>
+  <a href="https://github.com/msubhank">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=msubhank&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=8&hide=C" alt="Language Distribution" width="49%" />
+  </a>
+
+</div>
